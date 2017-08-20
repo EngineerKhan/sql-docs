@@ -49,7 +49,7 @@ manager: "jhubbard"
   
 5.  To insert a row, scroll down to the end of the rows and insert the new values.  
   
-    > **IMPORTANT!** You cannot insert a row if the view references more than one base table.  
+    > **IMPORTANT!** You cannot insert record of multiple tables if the view references more than one base table.  
   
 ##  <a name="TsqlProcedure"></a> Using Transact-SQL  
   
